@@ -11,3 +11,7 @@ i:hover {
     transition: 0.2s;
     transform: scale(1.2);
 }
+
+.row {
+    margin-top: 10em;
+}
