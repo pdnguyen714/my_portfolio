@@ -13,5 +13,10 @@ i:hover {
 }
 
 .row {
-    margin-top: 10em;
+    margin-top: 2em;
+}
+
+img {
+    height: 270px;
+    object-fit: cover;
 }
