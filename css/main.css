@@ -32,8 +32,9 @@ img {
 
 .card-text {
     font-size: 1.1em;
+    color: white;
 }
 
-.card-title, .card-text {
-    color: white;
+.card-title {
+    color: #545a62;
 }
