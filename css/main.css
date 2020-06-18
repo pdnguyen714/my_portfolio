@@ -27,6 +27,11 @@ img {
 
 .card {
     background-color: #343a40;
+    /* height: 37em; */
+}
+
+.card-text {
+    font-size: 1.1em;
 }
 
 .card-title, .card-text {
