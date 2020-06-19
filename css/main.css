@@ -1,5 +1,11 @@
 body {
-    background-color: #414a4a;
+    background-color: #3a3535;
+}
+
+.container {
+    background-color: #494e56;
+    border-radius: 20px;
+    margin-bottom: 1em;
 }
 
 h1 {
@@ -23,6 +29,11 @@ i:hover {
 img {
     height: 270px;
     object-fit: cover;
+}
+
+#profile-pic:hover {
+    transition: 0.2s;
+    transform: scale(1.1);
 }
 
 .card {
